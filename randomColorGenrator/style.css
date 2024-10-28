@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    margin: 20px  auto;
+}
+
+div{
+    border: 2px solid black;
+    height: 600px;
+    width: 200px;
+   margin: 2px 28px 2px auto ;
+   
+}
+button{
+    text-align: center;
+}
