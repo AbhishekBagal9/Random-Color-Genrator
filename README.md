@@ -1,2 +1,2 @@
-# FrontEnd-Challanges-JS
-frontend challanges using JS
+# Random-Color-in-JS
+Random-Color-using-JS
